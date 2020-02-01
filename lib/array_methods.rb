@@ -39,5 +39,8 @@ p using_last(cool_math)
 puts""
 
 def using_size(array)
-
+  array.size
 end
+
+p using_size(cool_math)
+puts""
