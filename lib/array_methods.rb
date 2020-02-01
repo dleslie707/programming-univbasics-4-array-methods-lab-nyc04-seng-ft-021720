@@ -1,6 +1,6 @@
 cool_math = []
 
-cool_math += ["people"]
+cool_math += ["people", "best"]
 cool_math += ["wow"]
 
 def using_include(array, element)
