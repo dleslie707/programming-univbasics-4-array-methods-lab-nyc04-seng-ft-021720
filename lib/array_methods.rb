@@ -14,7 +14,7 @@ def using_sort(array)
   array.sort!
 end
 
-p using_include(cool_math)
+p using_sort(cool_math)
 puts""
 
 def using_reverse(array)
