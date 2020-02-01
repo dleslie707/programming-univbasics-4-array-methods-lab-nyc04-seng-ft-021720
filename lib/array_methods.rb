@@ -8,10 +8,14 @@ def using_include(array, element)
 end
 
 p using_include(cool_math, "wow")
+puts""
 
 def using_sort(array)
-
+  array.sort!
 end
+
+p using_include(cool_math)
+puts""
 
 def using_reverse(array)
 
