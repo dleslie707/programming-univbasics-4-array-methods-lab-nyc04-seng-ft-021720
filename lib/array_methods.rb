@@ -18,8 +18,11 @@ p using_sort(cool_math)
 puts""
 
 def using_reverse(array)
-
+  array.reverse!
 end
+
+p using_reverse(cool_math)
+puts""
 
 def using_first(array)
 
