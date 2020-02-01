@@ -25,8 +25,11 @@ p using_reverse(cool_math)
 puts""
 
 def using_first(array)
-
+  array[0]
 end
+
+p using_first(cool_math)
+puts""
 
 def using_last(array)
 
